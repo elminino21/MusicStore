@@ -1,0 +1,14 @@
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\bin\Debug\netcoreapp2.1\MusicStoreAPI.deps.json
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\bin\Debug\netcoreapp2.1\MusicStoreAPI.runtimeconfig.json
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\bin\Debug\netcoreapp2.1\MusicStoreAPI.runtimeconfig.dev.json
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\bin\Debug\netcoreapp2.1\MusicStoreAPI.dll
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\bin\Debug\netcoreapp2.1\MusicStoreAPI.pdb
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\obj\Debug\netcoreapp2.1\MusicStoreAPI.csprojAssemblyReference.cache
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\obj\Debug\netcoreapp2.1\MusicStoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\obj\Debug\netcoreapp2.1\MusicStoreAPI.RazorAssemblyInfo.cache
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\obj\Debug\netcoreapp2.1\MusicStoreAPI.RazorAssemblyInfo.cs
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\obj\Debug\netcoreapp2.1\MusicStoreAPI.AssemblyInfoInputs.cache
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\obj\Debug\netcoreapp2.1\MusicStoreAPI.AssemblyInfo.cs
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\obj\Debug\netcoreapp2.1\MusicStoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\obj\Debug\netcoreapp2.1\MusicStoreAPI.dll
+C:\Users\Jose Gonzalez\source\repos\MusicStoreAPI\MusicStoreAPI\obj\Debug\netcoreapp2.1\MusicStoreAPI.pdb
